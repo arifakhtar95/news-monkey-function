@@ -1,0 +1,9 @@
+InfiniteScroll{
+  overflow: hidden;
+}
+.badge-set{
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0;
+}
